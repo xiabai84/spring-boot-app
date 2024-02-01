@@ -1,2 +1,15 @@
+Thumbs.db
+.DS_Store
+.gradle
+build/
 target/
-/opentelemetry-javaagent.jar
+out/
+.idea
+*.iml
+*.ipr
+*.iws
+*.copy
+.project
+.settings
+.classpath
+common.graphqls
